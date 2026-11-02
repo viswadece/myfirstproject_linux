@@ -1,1 +1,3 @@
 my code linux - first line
+
+code for merge from dev to master - second line
